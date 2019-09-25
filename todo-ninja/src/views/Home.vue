@@ -1,13 +1,13 @@
 <template>
-  <HelloWorld />
+  <div class="home">
+    <h1>Página principal</h1>
+    <p>Patans Web</p>
+  </div>
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
 
 export default {
-  components: {
-    HelloWorld,
-  },
+
 };
 </script>
