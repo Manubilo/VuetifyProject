@@ -1,7 +1,12 @@
 <template>
-  <div class="home">
-    <h1>Equipos</h1>
-    <p>Esta página contiene a todos los equipos participantes en el Patans</p>
+  <div class="equipos">
+    <h1 class="subheading grey--text">Equipos</h1>
+
+
+    <v-container>
+      <p>Esta página contiene a todos los equipos participantes en el Patans</p>
+    </v-container>
+    
   </div>
 </template>
 

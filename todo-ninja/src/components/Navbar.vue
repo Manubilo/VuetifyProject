@@ -4,8 +4,10 @@
             <v-app-bar-nav-icon class="white--text" @click="drawer = !drawer"></v-app-bar-nav-icon>
 
             <v-toolbar-title class="text-uppercase white--text">
-                <span class="font-weight-light">Patans</span>
-                <span>Web</span>
+                    <router-link style="text-decoration:none;"  to="/">
+                        <span  class="font-weight-light white--text">Patans</span>       
+                        <span class="white--text">Web</span>
+                    </router-link>
             </v-toolbar-title>
             <v-spacer></v-spacer>
             <v-btn text color="white"> Cerrar Sesión
