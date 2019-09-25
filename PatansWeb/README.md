@@ -1,4 +1,4 @@
-# todo-ninja
+# Patans Web
 
 ## Project setup
 ```
