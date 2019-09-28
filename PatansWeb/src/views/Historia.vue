@@ -6,15 +6,9 @@
       <p>Esta página contiene una breve reseña de todos los patans</p>
       <p>Tambien puede ser la pagina informativa... no se bien aun</p>
     </v-container>
-
-
-    
   </div>
 </template>
 
 <script>
-
-export default {
-
-};
+export default {};
 </script>
